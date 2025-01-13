@@ -366,3 +366,6 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+
+# rar files
+*.rar
